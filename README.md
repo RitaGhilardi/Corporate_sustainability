@@ -2,11 +2,14 @@
 
 This repository contains our project, "Towards Sustainability or Greenwashing – Analyzing Companies Sustainability Reporting." Our goal is to determine whether companies are genuinely implementing sustainable practices or merely greenwashing their activities. We achieve this by creating text classification algorithms to detect environmental claims in companies' sustainability reports, developing an "environmental claims" score, and comparing this score to their actual environmental performance.
 
+## Data
+ 1. The data used to train our model is made by [ClimateBert](https://huggingface.co/datasets/climatebert/environmental_claims/tree/main).
+ 2. The data used to validate the selected companies claims is fetched from [TRUCOST](https://www.spglobal.com/esg/trucost).
 ## Team Members
 
-- Lara 
-- Rita 
-- Per
+- [Lara Yasmin Hunziker](https://github.com/larahunziker)
+- [Rita Ghilardi](https://github.com/RitaGhilardi) 
+- [Per Christian Wessel](https://github.com/percw)
 
 ## Project Structure
 
