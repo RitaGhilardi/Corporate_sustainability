@@ -22,21 +22,10 @@ This repository contains our project, "Towards Sustainability or Greenwashing â€
 10. Quantify the solution and compare it to baselines
 11. Deliverables: Github page, report, code, experiments, video, and LinkedIn article (optional)
 
-## Installation
-
-Clone this repository, and install the required Python packages using the following command:
-
-```
-pip install -r requirements.txt
-```
-
 ## Usage
 
-To run the main script, execute the following command:
+The main findings of our project is found in the notebook [Corporate Sustainability](https://github.com/percw/Corporate_sustainability/blob/main/Companies_sustainability.ipynb).
 
-```
-python main.py
-```
 
 ## Contributing
 
