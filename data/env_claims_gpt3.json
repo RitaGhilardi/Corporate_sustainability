@@ -1,519 +1,757 @@
 {
 	"claims": [
 		{
-			"claim": "Our company is committed to reducing greenhouse gas emissions by 50% by 2030.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company is committed to reducing greenhouse gas emissions by 50% by 2030."
 		},
 		{
-			"claim": "We have implemented energy-efficient practices resulting in a 30% reduction in our carbon footprint.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "We have implemented energy-efficient practices resulting in a 30% reduction in our carbon footprint."
 		},
 		{
-			"claim": "Our product packaging is made from 100% recyclable materials.",
-			"category": "Climate",
-			"source": "Product Packaging Label"
+			"claim": "Our product packaging is made from 100% recyclable materials."
 		},
 		{
-			"claim": "We support renewable energy sources and have installed solar panels on our premises.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We support renewable energy sources and have installed solar panels on our premises."
 		},
 		{
-			"claim": "Our manufacturing processes prioritize water conservation to reduce our ecological impact.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our manufacturing processes prioritize water conservation to reduce our ecological impact."
 		},
 		{
-			"claim": "We have partnered with local environmental organizations to plant 10,000 trees in the past year.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "We have partnered with local environmental organizations to plant 10,000 trees in the past year."
 		},
 		{
-			"claim": "We have achieved carbon neutrality through offsetting our emissions with verified carbon credits.",
-			"category": "Climate",
-			"source": "Sustainability Report"
+			"claim": "We have achieved carbon neutrality through offsetting our emissions with verified carbon credits."
 		},
 		{
-			"claim": "Our company is actively researching and investing in clean energy technologies.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company is actively researching and investing in clean energy technologies."
 		},
 		{
-			"claim": "We have reduced water usage in our production facilities by 20% through implementing innovative technologies.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "We have reduced water usage in our production facilities by 20% through implementing innovative technologies."
 		},
 		{
-			"claim": "Our transportation fleet has transitioned to electric vehicles, reducing carbon emissions by 50%.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "Our transportation fleet has transitioned to electric vehicles, reducing carbon emissions by 50%."
 		},
 		{
-			"claim": "We have implemented a zero-waste policy and recycle or compost all waste generated in our operations.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "We have implemented a zero-waste policy and recycle or compost all waste generated in our operations."
 		},
 		{
-			"claim": "Our company supports international agreements like the Paris Agreement to combat climate change.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "Our company supports international agreements like the Paris Agreement to combat climate change."
 		},
 		{
-			"claim": "We actively promote telecommuting to reduce employee commuting emissions.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "We actively promote telecommuting to reduce employee commuting emissions."
 		},
 		{
-			"claim": "Our product design prioritizes energy efficiency, resulting in reduced energy consumption by 25%.",
-			"category": "Climate",
-			"source": "Product Description"
+			"claim": "Our product design prioritizes energy efficiency, resulting in reduced energy consumption by 25%."
 		},
 		{
-			"claim": "We have implemented a comprehensive recycling program in all our office locations.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We have implemented a comprehensive recycling program in all our office locations."
 		},
 		{
-			"claim": "Our company invests in reforestation projects to sequester carbon dioxide from the atmosphere.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company invests in reforestation projects to sequester carbon dioxide from the atmosphere."
 		},
 		{
-			"claim": "We have achieved LEED Platinum certification for our headquarters, showcasing our commitment to sustainability.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "We have achieved LEED Platinum certification for our headquarters, showcasing our commitment to sustainability."
 		},
 		{
-			"claim": "Our company has set science-based targets to align our emissions reductions with climate science.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company has set science-based targets to align our emissions reductions with climate science."
 		},
 		{
-			"claim": "a comprehensive water management system to minimize water usage across our operations.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "a comprehensive water management system to minimize water usage across our operations."
 		},
 		{
-			"claim": "We prioritize the use of sustainable materials in our products to reduce environmental impact.",
-			"category": "Climate",
-			"source": "Product Description"
+			"claim": "We prioritize the use of sustainable materials in our products to reduce environmental impact."
 		},
 		{
-			"claim": "Our company supports and advocates for stronger government regulations on greenhouse gas emissions.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company supports and advocates for stronger government regulations on greenhouse gas emissions."
 		},
 		{
-			"claim": "We actively collaborate with suppliers to improve their environmental performance and reduce emissions.",
-			"category": "Climate",
-			"source": "Supplier Code of Conduct"
+			"claim": "We actively collaborate with suppliers to improve their environmental performance and reduce emissions."
 		},
 		{
-			"claim": "Our company participates in industry-wide initiatives to drive sustainable practices and innovation.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company participates in industry-wide initiatives to drive sustainable practices and innovation."
 		},
 		{
-			"claim": "We have implemented a waste-to-energy program to convert waste into renewable energy sources.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We have implemented a waste-to-energy program to convert waste into renewable energy sources."
 		},
 		{
-			"claim": "Our company is a signatory of the We Mean Business coalition, committing to climate action.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "Our company is a signatory of the We Mean Business coalition, committing to climate action."
 		},
 		{
-			"claim": "We provide our employees with training on sustainability practices and climate change awareness.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "We provide our employees with training on sustainability practices and climate change awareness."
 		},
 		{
-			"claim": "Our company conducts regular audits to identify and reduce energy waste in our facilities.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "Our company conducts regular audits to identify and reduce energy waste in our facilities."
 		},
 		{
-			"claim": "We have set a goal to achieve 100% renewable energy usage for our operations within the next five years.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We have set a goal to achieve 100% renewable energy usage for our operations within the next five years."
 		},
 		{
-			"claim": "We actively engage with local communities to raise awareness about climate change and promote sustainable practices.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "We actively engage with local communities to raise awareness about climate change and promote sustainable practices."
 		},
 		{
-			"claim": "Our company is a founding member of the Sustainable Packaging Coalition, driving eco-friendly packaging solutions.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "Our company is a founding member of the Sustainable Packaging Coalition, driving eco-friendly packaging solutions."
 		},
 		{
-			"claim": "We are implementing a circular economy model, prioritizing product reuse, recycling, and repair.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "We are implementing a circular economy model, prioritizing product reuse, recycling, and repair."
 		},
 		{
-			"claim": "Our company has conducted a life cycle assessment to identify and mitigate our products' environmental impacts.",
-			"category": "Climate",
-			"source": "Product Description"
+			"claim": "Our company has conducted a life cycle assessment to identify and mitigate our products' environmental impacts."
 		},
 		{
-			"claim": "We collaborate with research institutions to develop innovative solutions for climate change mitigation.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We collaborate with research institutions to develop innovative solutions for climate change mitigation."
 		},
 		{
-			"claim": "Our company supports local and global initiatives to protect and restore ecosystems affected by climate change.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company supports local and global initiatives to protect and restore ecosystems affected by climate change."
 		},
 		{
-			"claim": "We have implemented a rainwater harvesting system to reduce dependency on municipal water sources.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "We have implemented a rainwater harvesting system to reduce dependency on municipal water sources."
 		},
 		{
-			"claim": "Our company advocates for the adoption of carbon pricing to incentivize emissions reductions.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company advocates for the adoption of carbon pricing to incentivize emissions reductions."
 		},
 		{
-			"claim": "We actively measure and disclose our environmental performance to drive accountability and transparency.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "We actively measure and disclose our environmental performance to drive accountability and transparency."
 		},
 		{
-			"claim": "We have achieved ISO 14001 certification for our environmental management system.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "We have achieved ISO 14001 certification for our environmental management system."
 		},
 		{
-			"claim": "Our company invests in research and development to create innovative climate-friendly products.",
-			"category": "Climate",
-			"source": "Product Description"
+			"claim": "Our company invests in research and development to create innovative climate-friendly products."
 		},
 		{
-			"claim": "We conduct regular energy audits to identify energy-saving opportunities and optimize efficiency.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "We conduct regular energy audits to identify energy-saving opportunities and optimize efficiency."
 		},
 		{
-			"claim": "Our company supports initiatives that promote sustainable agriculture and reduce deforestation.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company supports initiatives that promote sustainable agriculture and reduce deforestation."
 		},
 		{
-			"claim": "We have implemented a company-wide teleconferencing policy to reduce business travel emissions.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We have implemented a company-wide teleconferencing policy to reduce business travel emissions."
 		},
 		{
-			"claim": "Our company supports and sponsors climate change research and scientific studies.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "Our company supports and sponsors climate change research and scientific studies."
 		},
 		{
-			"claim": "We actively engage with our customers to promote sustainable product usage and responsible consumption.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "We actively engage with our customers to promote sustainable product usage and responsible consumption."
 		},
 		{
-			"claim": "Our company has implemented energy-efficient lighting systems in all our facilities.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "Our company has implemented energy-efficient lighting systems in all our facilities."
 		},
 		{
-			"claim": "We have established a green supply chain program to encourage sustainable practices among our suppliers.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We have established a green supply chain program to encourage sustainable practices among our suppliers."
 		},
 		{
-			"claim": "Our company supports initiatives to protect and restore marine ecosystems affected by climate change.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company supports initiatives to protect and restore marine ecosystems affected by climate change."
 		},
 		{
-			"claim": "We have implemented a waste reduction program, resulting in a 50% decrease in landfill waste.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "We have implemented a waste reduction program, resulting in a 50% decrease in landfill waste."
 		},
 		{
-			"claim": "Our company advocates for sustainable transportation solutions and supports public transit initiatives.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company advocates for sustainable transportation solutions and supports public transit initiatives."
 		},
 		{
-			"claim": "We have set up employee-led green teams to drive sustainability initiatives within our organization.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We have set up employee-led green teams to drive sustainability initiatives within our organization."
 		},
 		{
-			"claim": "Our company has partnered with local communities to implement renewable energy projects.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company has partnered with local communities to implement renewable energy projects."
 		},
 		{
-			"claim": "We are actively involved in policy advocacy to promote climate-friendly legislation.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "We are actively involved in policy advocacy to promote climate-friendly legislation."
 		},
 		{
-			"claim": "Our company offers incentives for employees who choose to commute by bike or public transportation.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company offers incentives for employees who choose to commute by bike or public transportation."
 		},
 		{
-			"claim": "We have implemented water-efficient irrigation systems to minimize water consumption in our agricultural operations.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "We have implemented water-efficient irrigation systems to minimize water consumption in our agricultural operations."
 		},
 		{
-			"claim": "Our company invests in clean energy projects, such as wind farms and solar installations.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "Our company invests in clean energy projects, such as wind farms and solar installations."
 		},
 		{
-			"claim": "Our company has achieved carbon neutrality across all operations through emissions reductions and carbon offsets.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "Our company has achieved carbon neutrality across all operations through emissions reductions and carbon offsets."
 		},
 		{
-			"claim": "We have implemented energy management systems that resulted in a 15% reduction in energy consumption.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We have implemented energy management systems that resulted in a 15% reduction in energy consumption."
 		},
 		{
-			"claim": "Our packaging is made from recycled materials, reducing landfill waste and conserving natural resources.",
-			"category": "Climate",
-			"source": "Product Packaging Label"
+			"claim": "Our packaging is made from recycled materials, reducing landfill waste and conserving natural resources."
 		},
 		{
-			"claim": "We are committed to sourcing 100% of our electricity from renewable energy sources by 2025.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "We are committed to sourcing 100% of our electricity from renewable energy sources by 2025."
 		},
 		{
-			"claim": "Our company's fleet of vehicles has transitioned to hybrid and electric models, reducing emissions by 40%.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company's fleet of vehicles has transitioned to hybrid and electric models, reducing emissions by 40%."
 		},
 		{
-			"claim": "We have partnered with local communities to restore and protect biodiversity in areas affected by climate change.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "We have partnered with local communities to restore and protect biodiversity in areas affected by climate change."
 		},
 		{
-			"claim": "Our company has implemented a zero-deforestation policy across our supply chain to combat climate change.",
-			"category": "Climate",
-			"source": "Sustainability Report"
+			"claim": "Our company has implemented a zero-deforestation policy across our supply chain to combat climate change."
 		},
 		{
-			"claim": "We invest in renewable energy infrastructure projects, such as solar farms and wind turbines, to reduce our carbon footprint.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We invest in renewable energy infrastructure projects, such as solar farms and wind turbines, to reduce our carbon footprint."
 		},
 		{
-			"claim": "Our manufacturing facilities have reduced water consumption by 25% through improved water management practices.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "Our manufacturing facilities have reduced water consumption by 25% through improved water management practices."
 		},
 		{
-			"claim": "We actively participate in global initiatives to promote climate justice and address the disproportionate impacts of climate change on vulnerable communities.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "We actively participate in global initiatives to promote climate justice and address the disproportionate impacts of climate change on vulnerable communities."
 		},
 		{
-			"claim": "Our product design incorporates eco-friendly materials and energy-efficient technologies to minimize environmental impact.",
-			"category": "Climate",
-			"source": "Product Description"
+			"claim": "Our product design incorporates eco-friendly materials and energy-efficient technologies to minimize environmental impact."
 		},
 		{
-			"claim": "We have implemented a comprehensive waste management system, diverting 90% of our waste from landfills through recycling and composting.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We have implemented a comprehensive waste management system, diverting 90% of our waste from landfills through recycling and composting."
 		},
 		{
-			"claim": "Our company supports global reforestation efforts, pledging to plant one million trees by 2025.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company supports global reforestation efforts, pledging to plant one million trees by 2025."
 		},
 		{
-			"claim": "We have received the Green Building Council's certification for our sustainable and energy-efficient office buildings.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "We have received the Green Building Council's certification for our sustainable and energy-efficient office buildings."
 		},
 		{
-			"claim": "Our company conducts regular greenhouse gas audits to track and reduce emissions throughout our value chain.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company conducts regular greenhouse gas audits to track and reduce emissions throughout our value chain."
 		},
 		{
-			"claim": "We actively promote the use of public transportation and carpooling among our employees to reduce emissions.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We actively promote the use of public transportation and carpooling among our employees to reduce emissions."
 		},
 		{
-			"claim": "Our company has achieved ISO 50001 certification for energy management, demonstrating our commitment to energy efficiency.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "Our company has achieved ISO 50001 certification for energy management, demonstrating our commitment to energy efficiency."
 		},
 		{
-			"claim": "We have reduced our water usage by 30% through water-saving initiatives, such as rainwater harvesting and efficient irrigation.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We have reduced our water usage by 30% through water-saving initiatives, such as rainwater harvesting and efficient irrigation."
 		},
 		{
-			"claim": "Our company supports sustainable agriculture practices, working with farmers to minimize chemical inputs and reduce carbon emissions.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company supports sustainable agriculture practices, working with farmers to minimize chemical inputs and reduce carbon emissions."
 		},
 		{
-			"claim": "We have implemented a green procurement policy, prioritizing suppliers with strong environmental and climate commitments.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "We have implemented a green procurement policy, prioritizing suppliers with strong environmental and climate commitments."
 		},
 		{
-			"claim": "Our company conducts regular carbon footprint assessments to identify areas for emissions reductions and improve our environmental performance.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company conducts regular carbon footprint assessments to identify areas for emissions reductions and improve our environmental performance."
 		},
 		{
-			"claim": "We have established a renewable energy fund to support the development of clean energy projects in underserved communities.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We have established a renewable energy fund to support the development of clean energy projects in underserved communities."
 		},
 		{
-			"claim": "Our company is actively involved in advocacy efforts to strengthen climate policies and promote a low-carbon economy.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company is actively involved in advocacy efforts to strengthen climate policies and promote a low-carbon economy."
 		},
 		{
-			"claim": "We prioritize the use of sustainable and biodegradable materials in our packaging, reducing plastic waste and marine pollution.",
-			"category": "Climate",
-			"source": "Product Packaging Label"
+			"claim": "We prioritize the use of sustainable and biodegradable materials in our packaging, reducing plastic waste and marine pollution."
 		},
 		{
-			"claim": "Our company offers incentives for employees to install solar panels at home, fostering a culture of renewable energy adoption.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company offers incentives for employees to install solar panels at home, fostering a culture of renewable energy adoption."
 		},
 		{
-			"claim": "We have implemented energy-saving measures, such as LED lighting and smart building systems, resulting in significant energy efficiency gains.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "We have implemented energy-saving measures, such as LED lighting and smart building systems, resulting in significant energy efficiency gains."
 		},
 		{
-			"claim": "Our company supports the transition to a circular economy by promoting product repairability, recycling, and resource recovery.",
-			"category": "Climate",
-			"source": "Product Description"
+			"claim": "Our company supports the transition to a circular economy by promoting product repairability, recycling, and resource recovery."
 		},
 		{
-			"claim": "We actively engage with stakeholders to develop and implement climate action plans, ensuring transparency and accountability in our efforts.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We actively engage with stakeholders to develop and implement climate action plans, ensuring transparency and accountability in our efforts."
 		},
 		{
-			"claim": "Our company sponsors and participates in community clean-up initiatives, aiming to reduce pollution and protect local ecosystems.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company sponsors and participates in community clean-up initiatives, aiming to reduce pollution and protect local ecosystems."
 		},
 		{
-			"claim": "We have implemented energy management systems that utilize artificial intelligence to optimize energy usage and reduce waste.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "We have implemented energy management systems that utilize artificial intelligence to optimize energy usage and reduce waste."
 		},
 		{
-			"claim": "Our company collaborates with NGOs and research institutions to support scientific studies and solutions for climate change mitigation.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company collaborates with NGOs and research institutions to support scientific studies and solutions for climate change mitigation."
 		},
 		{
-			"claim": "We support the transition to electric mobility by installing EV charging stations at our facilities and providing incentives for electric vehicle adoption.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "We support the transition to electric mobility by installing EV charging stations at our facilities and providing incentives for electric vehicle adoption."
 		},
 		{
-			"claim": "We have implemented a waste-to-energy program, converting organic waste into biogas for renewable energy production.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "We have implemented a waste-to-energy program, converting organic waste into biogas for renewable energy production."
 		},
 		{
-			"claim": "Our company supports the development of sustainable cities by investing in green infrastructure and promoting urban resilience.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "Our company supports the development of sustainable cities by investing in green infrastructure and promoting urban resilience."
 		},
 		{
-			"claim": "We have established internal carbon pricing mechanisms to incentivize emissions reductions and fund sustainability initiatives.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "We have established internal carbon pricing mechanisms to incentivize emissions reductions and fund sustainability initiatives."
 		},
 		{
-			"claim": "Our company advocates for responsible land use practices to protect ecosystems, reduce deforestation, and preserve biodiversity.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "Our company advocates for responsible land use practices to protect ecosystems, reduce deforestation, and preserve biodiversity."
 		},
 		{
-			"claim": "We actively engage with industry peers and competitors to drive collaborative solutions for climate change mitigation and adaptation.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "We actively engage with industry peers and competitors to drive collaborative solutions for climate change mitigation and adaptation."
 		},
 		{
-			"claim": "Our company supports and invests in climate education programs to raise awareness and empower individuals to take climate action.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "Our company supports and invests in climate education programs to raise awareness and empower individuals to take climate action."
 		},
 		{
-			"claim": "We have implemented an energy-efficient cooling system, reducing energy consumption and greenhouse gas emissions in our facilities.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "We have implemented an energy-efficient cooling system, reducing energy consumption and greenhouse gas emissions in our facilities."
 		},
 		{
-			"claim": "Our company actively monitors and reports on the environmental impact of our supply chain, promoting transparency and sustainability.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "Our company actively monitors and reports on the environmental impact of our supply chain, promoting transparency and sustainability."
 		},
 		{
-			"claim": "We collaborate with local communities to implement climate adaptation projects, building resilience to extreme weather events and changing climate conditions.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "We collaborate with local communities to implement climate adaptation projects, building resilience to extreme weather events and changing climate conditions."
 		},
 		{
-			"claim": "Our company has set science-based targets to align our emissions reductions with the goals of the Paris Agreement.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company has set science-based targets to align our emissions reductions with the goals of the Paris Agreement."
 		},
 		{
-			"claim": "We actively support the conservation and restoration of natural carbon sinks, such as forests and wetlands, to mitigate climate change.",
-			"category": "Climate",
-			"source": "Corporate Social Responsibility Report"
+			"claim": "We actively support the conservation and restoration of natural carbon sinks, such as forests and wetlands, to mitigate climate change."
 		},
 		{
-			"claim": "Our company promotes sustainable farming practices that reduce agricultural emissions, preserve soil health, and protect water resources.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "Our company promotes sustainable farming practices that reduce agricultural emissions, preserve soil health, and protect water resources."
 		},
 		{
-			"claim": "We invest in innovative clean technologies, such as carbon capture and storage, to accelerate the transition to a low-carbon future.",
-			"category": "Climate",
-			"source": "Press Release"
+			"claim": "We invest in innovative clean technologies, such as carbon capture and storage, to accelerate the transition to a low-carbon future."
 		},
 		{
-			"claim": "Our company supports initiatives that promote gender equality and empower women in climate change mitigation and adaptation efforts.",
-			"category": "Climate",
-			"source": "Company Statement"
+			"claim": "Our company supports initiatives that promote gender equality and empower women in climate change mitigation and adaptation efforts."
 		},
 		{
-			"claim": "We have implemented a sustainable waste management system, diverting waste from landfills through recycling, composting, and waste-to-energy.",
-			"category": "Climate",
-			"source": "Annual Sustainability Report"
+			"claim": "We have implemented a sustainable waste management system, diverting waste from landfills through recycling, composting, and waste-to-energy."
 		},
 		{
-			"claim": "Our company collaborates with governments and policymakers to advocate for ambitious climate targets and effective climate policies.",
-			"category": "Climate",
-			"source": "Company Website"
+			"claim": "Our company collaborates with governments and policymakers to advocate for ambitious climate targets and effective climate policies."
+		},
+		{
+			"claim": "Our company is dedicated to achieving net-zero emissions by 2050 through a comprehensive decarbonization strategy."
+		},
+		{
+			"claim": "We prioritize the use of renewable materials in our products to minimize resource depletion and reduce environmental impact."
+		},
+		{
+			"claim": "Through innovative manufacturing processes, we have reduced our carbon emissions by 40% compared to industry standards."
+		},
+		{
+			"claim": "Our company is actively involved in the development and implementation of climate-resilient infrastructure projects worldwide."
+		},
+		{
+			"claim": "We have implemented a comprehensive biodiversity conservation plan to protect and restore ecosystems impacted by climate change."
+		},
+		{
+			"claim": "Our commitment to renewable energy is reflected in our transition to 100% solar and wind power for our operations."
+		},
+		{
+			"claim": "We actively engage with local communities to raise awareness about climate change and promote sustainable lifestyle choices."
+		},
+		{
+			"claim": "Through responsible water stewardship, we have achieved a 50% reduction in water consumption across our operations."
+		},
+		{
+			"claim": "Our company invests in climate-smart agriculture techniques to enhance productivity while minimizing greenhouse gas emissions."
+		},
+		{
+			"claim": "We have adopted a zero-waste manufacturing approach, ensuring that all production by-products are reused or recycled."
+		},
+		{
+			"claim": "Our company is a proud supporter of the Sustainable Development Goals, actively working towards climate action and environmental sustainability."
+		},
+		{
+			"claim": "We are committed to achieving water neutrality by implementing water restoration projects and efficient water management practices."
+		},
+		{
+			"claim": "Our company conducts lifecycle assessments to identify areas for environmental improvement and reduce the carbon footprint of our products."
+		},
+		{
+			"claim": "We have established a company-wide program to empower employees in taking climate-friendly actions both at work and in their personal lives."
+		},
+		{
+			"claim": "Through collaboration with local communities, we have restored and protected XX hectares of vital ecosystems, contributing to climate resilience."
+		},
+		{
+			"claim": "Our company utilizes regenerative farming practices that sequester carbon, enhance soil health, and promote biodiversity."
+		},
+		{
+			"claim": "Our company has implemented an ambitious climate action plan that encompasses emissions reduction, energy efficiency, renewable energy adoption, and sustainable practices throughout our value chain."
+		},
+		{
+			"claim": "We are committed to achieving science-based targets in line with a 1.5-degree Celsius trajectory, and we actively collaborate with stakeholders to drive systemic change and accelerate the transition to a low-carbon economy."
+		},
+		{
+			"claim": "Through our comprehensive sustainability strategy, we aim to minimize our ecological footprint by reducing greenhouse gas emissions, optimizing resource efficiency, protecting ecosystems, and promoting circularity in our operations and products."
+		},
+		{
+			"claim": "We have established an internal carbon pricing mechanism that internalizes the cost of carbon emissions, driving informed decision-making and directing investments toward low-carbon technologies and solutions."
+		},
+		{
+			"claim": "Our commitment to the Paris Agreement extends beyond emissions reduction; we actively advocate for robust climate policies, collaborate with industry peers, and engage in public-private partnerships to drive innovation and address climate-related challenges."
+		},
+		{
+			"claim": "In our pursuit of carbon neutrality, we have gone beyond offsetting emissions; we prioritize emissions reduction across our operations, supply chain optimization, investment in renewable energy projects, and the utilization of nature-based solutions to sequester carbon."
+		},
+		{
+			"claim": "Through our circular economy approach, we embrace the principles of designing out waste, promoting product reuse, repairability, and recycling, as well as sourcing materials from sustainable and regenerative sources to ensure a closed-loop system that minimizes environmental impact."
+		},
+		{
+			"claim": "Our commitment to sustainable development encompasses not only environmental stewardship but also social responsibility; we actively engage with local communities, support climate resilience projects, and promote inclusive and equitable solutions that address the needs of vulnerable populations affected by climate change."
+		},
+		{
+			"claim": "We have integrated climate risk assessment into our business strategy, considering physical and transition risks, and we continuously strive to improve our adaptive capacity and resilience to ensure long-term sustainability and success in a changing climate."
+		},
+		{
+			"claim": "Through collaboration with suppliers, we implement stringent environmental criteria, including carbon footprint reduction, responsible sourcing practices, and adherence to sustainability standards, fostering a sustainable supply chain that drives positive environmental outcomes."
+		},
+		{
+			"claim": "We invest in cutting-edge technologies and innovation to develop breakthrough solutions that address climate change challenges, including clean energy, energy storage, carbon capture, sustainable transportation, and smart grid systems."
+		},
+		{
+			"claim": "We have implemented energy-efficient technologies that have reduced our carbon emissions by 25%."
+		},
+		{
+			"claim": "Our company sources 100% of its electricity from renewable energy."
+		},
+		{
+			"claim": "We are committed to achieving zero waste to landfill by implementing comprehensive recycling and waste reduction programs."
+		},
+		{
+			"claim": "We have set a goal to achieve water neutrality by minimizing water usage and implementing water conservation practices."
+		},
+		{
+			"claim": "Through our sustainable packaging initiatives, we have eliminated single-use plastics and prioritized recyclable and biodegradable materials."
+		},
+		{
+			"claim": "We support local communities in climate change adaptation and resilience-building projects."
+		},
+		{
+			"claim": "Our company conducts regular environmental audits to identify areas for improvement and reduce our ecological impact."
+		},
+		{
+			"claim": "We have implemented a green procurement policy, sourcing from suppliers with strong environmental commitments."
+		},
+		{
+			"claim": "Through reforestation efforts, we have planted thousands of trees to sequester carbon and restore ecosystems."
+		},
+		{
+			"claim": "Our company encourages employee participation in sustainable commuting options, such as biking, carpooling, and public transportation."
+		},
+		{
+			"claim": "We actively engage in partnerships and collaborations to drive innovation and develop sustainable technologies."
+		},
+		{
+			"claim": "We are committed to achieving supply chain transparency and traceability to ensure sustainable sourcing practices."
+		},
+		{
+			"claim": "Our company supports initiatives to promote sustainable agriculture and reduce chemical pesticide usage."
+		},
+		{
+			"claim": "We have implemented energy management systems to optimize energy usage and reduce our carbon footprint."
+		},
+		{
+			"claim": "Through energy efficiency upgrades, we have reduced our energy consumption by 30%."
+		},
+		{
+			"claim": "We actively measure and disclose our greenhouse gas emissions to track our progress and set reduction targets."
+		},
+		{
+			"claim": "We invest in renewable energy infrastructure to support the growth of clean energy sources."
+		},
+		{
+			"claim": "Our company educates customers about sustainable practices and provides resources for eco-friendly lifestyles."
+		},
+		{
+			"claim": "We collaborate with research institutions to develop sustainable solutions for climate change mitigation and adaptation."
+		},
+		{
+			"claim": "We have implemented sustainable water management practices, including rainwater harvesting and water recycling."
+		},
+		{
+			"claim": "We prioritize the use of low-carbon and recycled materials in our manufacturing processes."
+		},
+		{
+			"claim": "We actively engage with investors to promote sustainable finance and responsible investment practices."
+		},
+		{
+			"claim": "Our company supports initiatives to protect and restore marine ecosystems and reduce ocean pollution."
+		},
+		{
+			"claim": "We have achieved ISO 14001 certification for our environmental management system."
+		},
+		{
+			"claim": "We actively promote environmental education and awareness through community outreach programs."
+		},
+		{
+			"claim": "We have implemented a company-wide carbon offset program to compensate for our remaining emissions."
+		},
+		{
+			"claim": "Our company supports initiatives that promote clean air and combat air pollution."
+		},
+		{
+			"claim": "We are committed to transitioning to a circular economy by promoting product reuse, recycling, and resource recovery."
+		},
+		{
+			"claim": "We engage in continuous research and development to improve the environmental performance of our products."
+		},
+		{
+			"claim": "Our company has achieved carbon neutrality by offsetting emissions through certified renewable energy projects."
+		},
+		{
+			"claim": "We prioritize energy-efficient practices to reduce our carbon footprint and lower energy consumption."
+		},
+		{
+			"claim": "Through sustainable sourcing, we ensure that our supply chain aligns with responsible environmental practices."
+		},
+		{
+			"claim": "Our commitment to sustainable packaging includes using recycled materials and reducing packaging waste."
+		},
+		{
+			"claim": "We actively support reforestation efforts to restore natural habitats and sequester carbon."
+		},
+		{
+			"claim": "Our company invests in renewable energy infrastructure to transition to a low-carbon energy system."
+		},
+		{
+			"claim": "We engage in eco-friendly transportation practices, such as utilizing electric vehicles and promoting public transit."
+		},
+		{
+			"claim": "We collaborate with local communities to implement clean energy projects and promote energy access."
+		},
+		{
+			"claim": "Our company supports initiatives to conserve water resources and improve water efficiency."
+		},
+		{
+			"claim": "We have set a target to achieve zero waste to landfill by implementing comprehensive waste management practices."
+		},
+		{
+			"claim": "We advocate for sustainable farming techniques that prioritize soil health and biodiversity conservation."
+		},
+		{
+			"claim": "Our company has implemented energy-saving measures, resulting in significant cost and emission reductions."
+		},
+		{
+			"claim": "Through sustainable design and innovation, we develop products that minimize environmental impact."
+		},
+		{
+			"claim": "We actively engage in policy advocacy to promote climate action and support renewable energy policies."
+		},
+		{
+			"claim": "Our commitment to environmental stewardship extends to the conservation of endangered species and habitats."
+		},
+		{
+			"claim": "We prioritize the reduction of single-use plastics and encourage the use of reusable alternatives."
+		},
+		{
+			"claim": "We actively participate in global sustainability initiatives to drive positive environmental change."
+		},
+		{
+			"claim": "Our company supports the development of green infrastructure to enhance climate resilience."
+		},
+		{
+			"claim": "We measure and report our environmental impact to hold ourselves accountable and drive continuous improvement."
+		},
+		{
+			"claim": "We actively educate and empower employees to adopt sustainable practices in the workplace and beyond."
+		},
+		{
+			"claim": "Our company invests in clean technology startups to foster innovation in the fight against climate change."
+		},
+		{
+			"claim": "We partner with environmental organizations to restore and protect natural ecosystems."
+		},
+		{
+			"claim": "We support initiatives to promote sustainable tourism and minimize the industry's ecological footprint."
+		},
+		{
+			"claim": "Our company promotes circular economy principles by designing products for longevity and recyclability."
+		},
+		{
+			"claim": "We actively collaborate with suppliers to ensure sustainable sourcing and ethical practices throughout the supply chain."
+		},
+		{
+			"claim": "Our commitment to climate action includes reducing greenhouse gas emissions from our operations and value chain."
+		},
+		{
+			"claim": "We engage in community outreach programs to raise awareness about environmental issues and promote sustainable solutions."
+		},
+		{
+			"claim": "We have implemented comprehensive monitoring systems to track and reduce water and energy usage."
+		},
+		{
+			"claim": "Our company supports the protection and restoration of coral reefs and marine ecosystems."
+		},
+		{
+			"claim": "We strive to achieve full transparency by sharing our sustainability goals, progress, and challenges."
+		},
+		{
+			"claim": "Our company has achieved carbon neutrality by offsetting emissions through certified renewable energy projects."
+		},
+		{
+			"claim": "We prioritize energy-efficient practices to reduce our carbon footprint and lower energy consumption."
+		},
+		{
+			"claim": "Through sustainable sourcing, we ensure that our supply chain aligns with responsible environmental practices."
+		},
+		{
+			"claim": "Our commitment to sustainable packaging includes using recycled materials and reducing packaging waste."
+		},
+		{
+			"claim": "We actively support reforestation efforts to restore natural habitats and sequester carbon."
+		},
+		{
+			"claim": "Our company invests in renewable energy infrastructure to transition to a low-carbon energy system."
+		},
+		{
+			"claim": "We engage in eco-friendly transportation practices, such as utilizing electric vehicles and promoting public transit."
+		},
+		{
+			"claim": "We collaborate with local communities to implement clean energy projects and promote energy access."
+		},
+		{
+			"claim": "Our company supports initiatives to conserve water resources and improve water efficiency."
+		},
+		{
+			"claim": "We have set a target to achieve zero waste to landfill by implementing comprehensive waste management practices."
+		},
+		{
+			"claim": "We advocate for sustainable farming techniques that prioritize soil health and biodiversity conservation."
+		},
+		{
+			"claim": "Our company has implemented energy-saving measures, resulting in significant cost and emission reductions."
+		},
+		{
+			"claim": "Through sustainable design and innovation, we develop products that minimize environmental impact."
+		},
+		{
+			"claim": "We actively engage in policy advocacy to promote climate action and support renewable energy policies."
+		},
+		{
+			"claim": "Our commitment to environmental stewardship extends to the conservation of endangered species and habitats."
+		},
+		{
+			"claim": "We prioritize the reduction of single-use plastics and encourage the use of reusable alternatives."
+		},
+		{
+			"claim": "We actively participate in global sustainability initiatives to drive positive environmental change."
+		},
+		{
+			"claim": "Our company supports the development of green infrastructure to enhance climate resilience."
+		},
+		{
+			"claim": "We measure and report our environmental impact to hold ourselves accountable and drive continuous improvement."
+		},
+		{
+			"claim": "We actively educate and empower employees to adopt sustainable practices in the workplace and beyond."
+		},
+		{
+			"claim": "Our company invests in clean technology startups to foster innovation in the fight against climate change."
+		},
+		{
+			"claim": "We partner with environmental organizations to restore and protect natural ecosystems."
+		},
+		{
+			"claim": "We support initiatives to promote sustainable tourism and minimize the industry's ecological footprint."
+		},
+		{
+			"claim": "Our company promotes circular economy principles by designing products for longevity and recyclability."
+		},
+		{
+			"claim": "We actively collaborate with suppliers to ensure sustainable sourcing and ethical practices throughout the supply chain."
+		},
+		{
+			"claim": "Our commitment to climate action includes reducing greenhouse gas emissions from our operations and value chain."
+		},
+		{
+			"claim": "We engage in community outreach programs to raise awareness about environmental issues and promote sustainable solutions."
+		},
+		{
+			"claim": "We have implemented comprehensive monitoring systems to track and reduce water and energy usage."
+		},
+		{
+			"claim": "Our company supports the protection and restoration of coral reefs and marine ecosystems."
+		},
+		{
+			"claim": "We strive to achieve full transparency by sharing our sustainability goals, progress, and challenges."
+		},
+		{
+			"claim": "Our company supports initiatives to promote renewable energy adoption in underserved communities."
+		},
+		{
+			"claim": "We have implemented a comprehensive waste management system to minimize landfill waste."
+		},
+		{
+			"claim": "Through sustainable agricultural practices, we reduce water usage and minimize chemical inputs."
+		},
+		{
+			"claim": "We invest in clean technology research and development to drive innovation in sustainability."
+		},
+		{
+			"claim": "Our company supports initiatives to protect and restore biodiversity in threatened ecosystems."
+		},
+		{
+			"claim": "We actively engage in carbon offset projects to neutralize our carbon emissions."
+		},
+		{
+			"claim": "We have set ambitious emissions reduction targets aligned with the Science-Based Targets initiative."
+		},
+		{
+			"claim": "Our company promotes the use of renewable materials and promotes a circular economy."
+		},
+		{
+			"claim": "Through energy-efficient building design, we minimize energy consumption in our facilities."
+		},
+		{
+			"claim": "We actively engage in environmental conservation programs to protect endangered species."
+		},
+		{
+			"claim": "Our commitment to sustainability extends to promoting diversity and inclusion in our workforce."
+		},
+		{
+			"claim": "We actively participate in industry collaborations to develop sustainable business practices."
+		},
+		{
+			"claim": "We have implemented rainwater harvesting systems to reduce dependence on freshwater sources."
+		},
+		{
+			"claim": "Our company supports clean cooking solutions to reduce indoor air pollution and deforestation."
+		},
+		{
+			"claim": "Through supply chain traceability, we ensure the responsible sourcing of raw materials."
+		},
+		{
+			"claim": "We invest in renewable energy education and awareness programs for local communities."
+		},
+		{
+			"claim": "Our commitment to sustainability includes supporting climate resilience and adaptation projects."
+		},
+		{
+			"claim": "We actively engage in tree-planting initiatives to combat deforestation and promote carbon sequestration."
+		},
+		{
+			"claim": "We prioritize the use of eco-friendly cleaning products and practices in our operations."
+		},
+		{
+			"claim": "Our company supports initiatives to reduce air pollution and promote clean air quality standards."
+		},
+		{
+			"claim": "We invest in sustainable transportation solutions to reduce carbon emissions from our logistics."
+		},
+		{
+			"claim": "Through employee training and engagement, we foster a culture of sustainability and environmental responsibility."
+		},
+		{
+			"claim": "We actively participate in renewable energy certification programs to ensure transparency and credibility."
+		},
+		{
+			"claim": "Our company promotes responsible consumption and encourages customers to make sustainable choices."
+		},
+		{
+			"claim": "We support initiatives to promote sustainable forest management and prevent deforestation."
+		},
+		{
+			"claim": "Through energy audits, we identify and implement energy-saving measures to reduce our carbon footprint."
+		},
+		{
+			"claim": "We actively engage in partnerships to promote sustainable water resource management."
+		},
+		{
+			"claim": "Our commitment to sustainability extends to reducing plastic waste and promoting plastic recycling."
+		},
+		{
+			"claim": "We invest in renewable energy credits to support the development of clean energy projects."
+		},
+		{
+			"claim": "We promote energy-efficient practices among our customers to reduce their environmental impact."
+		},
+		{
+			"claim": "Our company supports initiatives to improve waste management infrastructure and recycling rates."
+		},
+		{
+			"claim": "We actively engage in environmental restoration projects to rehabilitate degraded ecosystems."
 		}
 	]
 }
