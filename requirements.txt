@@ -1,0 +1,15 @@
+pandas
+datasets
+spacy
+scikit-learn
+wordcloud
+nlpaug
+nltk
+plotly
+gensim
+textblob
+sklearn
+collections
+matplotlib
+numpy
+seaborn
