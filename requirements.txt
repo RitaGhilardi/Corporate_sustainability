@@ -8,8 +8,6 @@ nltk
 plotly
 gensim
 textblob
-sklearn
-collections
 matplotlib
 numpy
 seaborn
