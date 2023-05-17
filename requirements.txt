@@ -11,3 +11,5 @@ textblob
 matplotlib
 numpy
 seaborn
+torch
+transformers
